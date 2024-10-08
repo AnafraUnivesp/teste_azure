@@ -1,6 +1,10 @@
 # Deploy a Python (Django) web app to Azure App Service - Sample Application
 
+<<<<<<< HEAD
 This is the sample Django application for the Azure Quickstart [Deploy a Python (Django or Flask) web app to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python).  For instructions on how to create the Azure resources and deploy the application to Azure, refer to the Quickstart article.
+=======
+This is the sample Django application for the Azure Quickstart [Deploy a Python (Django or Flask) web app to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python).  For instructions on how to create the Azure resources and deploy the application to Azure, refer to the Quickstart article..
+>>>>>>> 951c6ba6c09b9b123b32ab63164cba16fd3584a2
 
 Sample applications are available for the other frameworks here:
 
