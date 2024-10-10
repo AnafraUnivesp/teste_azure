@@ -1,2 +1,6 @@
 Django
 whitenoise
+pylint
+autopep8
+django-cryspy-forms
+psycopg2-binary
